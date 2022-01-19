@@ -1,14 +1,11 @@
 * {
-    margin: 0;
     padding: 0;
     scroll-behavior: smooth;
     box-sizing: border-box;
 }
-section {
+section figure {
     display: inline-block;
     padding-top: 2%;
+    padding-right: 2%;
 
-}
-section:nth-of-type(2) {
-    padding: 0 4%;
 }
